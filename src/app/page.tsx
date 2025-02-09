@@ -15,6 +15,13 @@ export default function Home() {
                             tw
                             <span className="text-sky-900">:mf</span>
                         </div>
+                        <div className="block md:hidden ml-auto pr-4 my-auto">
+                            <div>
+                                <div className="h-1 w-8 rounded-full bg-zinc-200"></div>
+                                <div className="h-1 w-8 rounded-full bg-zinc-200 mt-1"></div>
+                                <div className="h-1 w-8 rounded-full bg-zinc-200 mt-1"></div>
+                            </div>
+                        </div>
                         <div className="flex-1 md:flex hidden items-center justify-end">
                             <div className="menu-item">
                                 <span>Home</span>
